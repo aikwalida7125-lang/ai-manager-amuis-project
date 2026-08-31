@@ -1,6 +1,6 @@
 {
   "adminWhatsApp": "083837563334",
-  "updatedAt": "2026-08-31T05:11:51.982Z",
+  "updatedAt": "2026-08-31T05:19:22.072Z",
   "banners": [
     {
       "id": "promo_gemini_pro_18m",
@@ -13,31 +13,30 @@
         "5 Anggota Family"
       ],
       "description": "PROMO GEMINI PRO 18 BULAN KREDIT FLOW 1000 Kredit / Bulan 5 TB Penyimpanan Bisa Invite Family 5",
-      "price": "Rp15.000",
+      "price": "Rp17.000",
       "statusText": "Klik untuk cek ketersediaan",
       "actionUrl": "https://wa.me/083837563334?text=Halo%20Admin,%20saya%20mau%20order%20Promo%20Gemini%20Pro%2018%20Bulan",
       "actionText": "Beli Sekarang ⚡",
       "gradient": "linear-gradient(180deg, #1e3a8a 0%, #0f172a 100%)",
-      "borderColor": "#3b82f6"
+      "borderColor": "#3b82f6",
+      "updatedAt": "2026-08-31T05:19:16.610Z"
     },
     {
       "id": "promo_flow_ai_private",
       "title": "AKUN FLOW GOOGLE AI PRIVATE",
       "badge": "HOT SALE",
-      "duration": "1 BULAN",
+      "duration": "3 BULAN",
       "chips": [
-        "1000 Kredit Flow",
-        "Gemini Pro",
-        
+        "flow 1000  Kredit"
       ],
       "description": "Akses Google Labs Flow Generasi Video AI Tanpa Batas dengan Akun Private Siap Pakai.",
-      "price": "Rp25.000",
+      "price": "Rp.20.000",
       "statusText": "Stok Terbatas Hari Ini",
       "actionUrl": "https://wa.me/083837563334?text=Halo%20Admin,%20saya%20mau%20order%20Akun%20Flow%20AI",
       "actionText": "Order via WhatsApp 💬",
       "gradient": "linear-gradient(180deg, #581c87 0%, #0f172a 100%)",
       "borderColor": "#a855f7",
-      "updatedAt": "2026-08-31T05:10:25.706Z"
+      "updatedAt": "2026-08-31T05:19:03.432Z"
     }
   ]
 }
