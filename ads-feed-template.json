@@ -1,6 +1,6 @@
 {
   "adminWhatsApp": "083837563334",
-  "updatedAt": "2026-08-31T05:19:22.072Z",
+  "updatedAt": "2026-09-19T07:38:03.109Z",
   "banners": [
     {
       "id": "promo_gemini_pro_18m",
@@ -20,23 +20,6 @@
       "gradient": "linear-gradient(180deg, #1e3a8a 0%, #0f172a 100%)",
       "borderColor": "#3b82f6",
       "updatedAt": "2026-08-31T05:19:16.610Z"
-    },
-    {
-      "id": "promo_flow_ai_private",
-      "title": "AKUN FLOW GOOGLE AI PRIVATE",
-      "badge": "HOT SALE",
-      "duration": "3 BULAN",
-      "chips": [
-        "flow 1000  Kredit"
-      ],
-      "description": "Akses Google Labs Flow Generasi Video AI Tanpa Batas dengan Akun Private Siap Pakai.",
-      "price": "Rp.20.000",
-      "statusText": "Stok Terbatas Hari Ini",
-      "actionUrl": "https://wa.me/083837563334?text=Halo%20Admin,%20saya%20mau%20order%20Akun%20Flow%20AI",
-      "actionText": "Order via WhatsApp 💬",
-      "gradient": "linear-gradient(180deg, #581c87 0%, #0f172a 100%)",
-      "borderColor": "#a855f7",
-      "updatedAt": "2026-08-31T05:19:03.432Z"
     }
   ]
 }
