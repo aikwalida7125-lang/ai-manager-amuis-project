@@ -1,0 +1,22 @@
+{
+  "updatedAt": "2026-09-19T07:46:58.720Z",
+  "adminWhatsApp": "083837563334",
+  "apps": [
+    {
+      "id": "app_mu82czhnx2nh",
+      "name": "TOOLS AFILATE AUTOMATIS",
+      "url": "https://flow.google.com/shared/tool/f49a7e97-04d5-4831-a3f4-d066d52aca7d",
+      "category": "Aplikasi Premium",
+      "badge": "VIP ACCESS",
+      "price": "Rp 150.000",
+      "description": "aplikasi ini untuk memudahkan kita membuat Video afilate tanpa perlu nge promt dan sudah langsung jadi video tanpa edit manual sudah auto marger. durasi bisa custom mau 10-20-2-30 detik",
+      "iconUrl": "",
+      "accessType": "subscribers_only",
+      "allowedEmails": [
+        "amuis8920@gmail.com"
+      ],
+      "accessCode": "",
+      "createdAt": "2026-09-19T07:26:14.699Z"
+    }
+  ]
+}
