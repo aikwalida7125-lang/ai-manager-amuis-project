@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T07:46:58.720Z",
+  "updatedAt": "2026-09-19T22:46:50.158Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
@@ -13,10 +13,12 @@
       "iconUrl": "",
       "accessType": "subscribers_only",
       "allowedEmails": [
-        "amuis8920@gmail.com"
+        "amuis8920@gmail.com",
+        "komputeramuis@gmail.com"
       ],
-      "accessCode": "",
-      "createdAt": "2026-09-19T07:26:14.699Z"
+      "accessCode": "CANGCUT",
+      "createdAt": "2026-09-19T07:26:14.699Z",
+      "updatedAt": "2026-09-19T22:46:41.925Z"
     }
   ]
 }
