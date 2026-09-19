@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T22:46:50.158Z",
+  "updatedAt": "2026-09-19T23:33:09.500Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
@@ -13,12 +13,12 @@
       "iconUrl": "",
       "accessType": "subscribers_only",
       "allowedEmails": [
-        "amuis8920@gmail.com",
-        "komputeramuis@gmail.com"
+        "8c59a23c86357f3267a6602fb3de2e16c404a7822ec6ba22514b7726201f0515",
+        "9380f72ff81a739323d90b259691c87f3b771f0e308c1404e149d728edc2d959"
       ],
-      "accessCode": "CANGCUT",
       "createdAt": "2026-09-19T07:26:14.699Z",
-      "updatedAt": "2026-09-19T22:46:41.925Z"
+      "updatedAt": "2026-09-19T22:46:41.925Z",
+      "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05"
     }
   ]
 }
