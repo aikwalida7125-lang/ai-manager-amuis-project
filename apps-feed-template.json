@@ -1,11 +1,27 @@
 {
-  "updatedAt": "2026-09-20T00:55:42.840Z",
+  "updatedAt": "2026-09-20T01:15:30.750Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
+      "id": "app_mu94jwpp4n97",
+      "name": "TOOLS DRAMA AI BISA BUAT DRAMA CINA SEMUA GENRE",
+      "url": "https://share.gemini.google/uO6YGvY83J9E drama versi terbaru kopdes",
+      "category": "Aplikasi Premium",
+      "badge": "VIP ACCESS",
+      "price": "Rp 200.000 Life Time",
+      "description": "aplikasi ini dibuat untuk membantu kita membuat drama dengan mudah tanpa harus cape pindah pindah minta promt karakter minta promt alur minta naskah ini sudah all in ada semua, bisa rubah caracter sendiri mau pake wajah sendiri wajah artis bisa.",
+      "iconUrl": "",
+      "accessType": "subscribers_only",
+      "allowedEmails": [
+        "komputeramuis@gmail.com"
+      ],
+      "accessCode": "12345678",
+      "createdAt": "2026-09-20T01:15:23.101Z"
+    },
+    {
       "id": "app_mu82czhnx2nh",
       "name": "TOOLS AFILATE AUTOMATIS",
-      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9PWtkIEEMSVg+PSR5LRAAeHqDnLCH2dbKgMHar/mzpsnVwoXZ",
+      "url": "https://flow.google.com/shared/tool/f49a7e97-04d5-4831-a3f4-d066d52aca7d",
       "category": "Aplikasi Premium",
       "badge": "VIP ACCESS",
       "price": "Rp 150.000",
@@ -13,13 +29,13 @@
       "iconUrl": "",
       "accessType": "subscribers_only",
       "allowedEmails": [
-        "enc:LTQ7AglXXl46RmtkRUJWClu0rQ==",
-        "enc:JzYjGw8bAh5ra3lgV2tdSVmyrPmjkPg="
+        "amuis8920@gmail.com",
+        "komputeramuis@gmail.com"
       ],
       "createdAt": "2026-09-19T07:26:14.699Z",
       "updatedAt": "2026-09-19T22:46:41.925Z",
       "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05",
-      "accessCode": "enc:DxgALDk6Mw=="
+      "accessCode": "CANGCUT"
     }
   ]
 }
