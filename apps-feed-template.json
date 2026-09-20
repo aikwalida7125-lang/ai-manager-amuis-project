@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-09-20T01:45:51.518Z",
+  "updatedAt": "2026-09-20T02:39:28.141Z",
   "adminWhatsApp": "083837563334",
   "apps": [
+    {
+      "id": "app_mu97juv0yn7o",
+      "name": "Generator Drama Ai render video automatis",
+      "url": "https://flow.google.com/shared/tool/35c1da58-16ef-4ec3-9a38-44e49ab1709c",
+      "category": "Aplikasi Premium",
+      "badge": "VIP ACCESS",
+      "price": "Rp 100.000",
+      "description": "Aplikasi ini dibuat Khusus Untuk menggenerate video secara automatis tetapi aplikasi ini dibuat sepaket dengan tools drama ai, jadi nanti kalau mau generate automatis sekaligus banyak dan langsung jadi 1 episode 1 episode tanpa cape cape generate manual pakai tools ini",
+      "iconUrl": "",
+      "accessType": "subscribers_only",
+      "allowedEmails": [],
+      "accessCode": "24242424",
+      "createdAt": "2026-09-20T02:39:19.548Z"
+    },
     {
       "id": "app_mu94jwpp4n97",
       "name": "TOOLS DRAMA AI BISA BUAT DRAMA CINA SEMUA GENRE",
@@ -13,7 +27,7 @@
       "iconUrl": "",
       "accessType": "subscribers_only",
       "allowedEmails": [],
-      "accessCode": "12345678",
+      "accessCode": "123456789",
       "createdAt": "2026-09-20T01:15:23.101Z",
       "updatedAt": "2026-09-20T01:45:46.118Z"
     },
