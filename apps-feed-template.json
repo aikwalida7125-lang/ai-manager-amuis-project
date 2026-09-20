@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-19T23:33:09.500Z",
+  "updatedAt": "2026-09-20T00:55:42.840Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
       "id": "app_mu82czhnx2nh",
       "name": "TOOLS AFILATE AUTOMATIS",
-      "url": "https://flow.google.com/shared/tool/f49a7e97-04d5-4831-a3f4-d066d52aca7d",
+      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9PWtkIEEMSVg+PSR5LRAAeHqDnLCH2dbKgMHar/mzpsnVwoXZ",
       "category": "Aplikasi Premium",
       "badge": "VIP ACCESS",
       "price": "Rp 150.000",
@@ -13,12 +13,13 @@
       "iconUrl": "",
       "accessType": "subscribers_only",
       "allowedEmails": [
-        "8c59a23c86357f3267a6602fb3de2e16c404a7822ec6ba22514b7726201f0515",
-        "9380f72ff81a739323d90b259691c87f3b771f0e308c1404e149d728edc2d959"
+        "enc:LTQ7AglXXl46RmtkRUJWClu0rQ==",
+        "enc:JzYjGw8bAh5ra3lgV2tdSVmyrPmjkPg="
       ],
       "createdAt": "2026-09-19T07:26:14.699Z",
       "updatedAt": "2026-09-19T22:46:41.925Z",
-      "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05"
+      "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05",
+      "accessCode": "enc:DxgALDk6Mw=="
     }
   ]
 }
