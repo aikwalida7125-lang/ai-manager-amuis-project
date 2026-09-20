@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T01:18:22.964Z",
+  "updatedAt": "2026-09-20T01:45:51.518Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
@@ -12,12 +12,10 @@
       "description": "aplikasi ini dibuat untuk membantu kita membuat drama dengan mudah tanpa harus cape pindah pindah minta promt karakter minta promt alur minta naskah ini sudah all in ada semua, bisa rubah caracter sendiri mau pake wajah sendiri wajah artis bisa.",
       "iconUrl": "",
       "accessType": "subscribers_only",
-      "allowedEmails": [
-        "komputeramuis@gmail.com"
-      ],
+      "allowedEmails": [],
       "accessCode": "12345678",
       "createdAt": "2026-09-20T01:15:23.101Z",
-      "updatedAt": "2026-09-20T01:18:16.547Z"
+      "updatedAt": "2026-09-20T01:45:46.118Z"
     },
     {
       "id": "app_mu82czhnx2nh",
