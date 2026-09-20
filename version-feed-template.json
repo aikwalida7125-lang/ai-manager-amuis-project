@@ -1,15 +1,12 @@
 {
-  "latestVersion": "1.0.15",
+  "latestVersion": "1.0.16",
   "releaseDate": "2026-09-20",
-  "title": "Pembaruan Resmi AI Manager Amuis Project v1.0.15",
+  "title": "Pembaruan Resmi AI Manager Amuis Project v1.0.16",
   "changelog": [
-    "Fitur Katalog Aplikasi Eksklusif & Pembatasan Akses Email Tertentu",
+    "Update Fitur menarik Terbaru",
     "Buka Aplikasi Langsung di Workspace Aktif (Proteksi Tanpa Keluar Aplikasi)",
-    "Perbaikan Tampilan Webview Layar Penuh 100% & Anti-Freeze Pengetikan Keyboard",
-    "Fitur Split Workspace View (Buka 2 Tab AI Sekaligus Responsif)",
-    "Fitur Auto-Hide & Collapse Toggle Sidebar Navigasi Kiri",
     "Sinkronisasi Cloud Feeds Otomatis dari Internet (GitHub)"
   ],
-  "downloadUrl": "https://github.com/aikwalida7125-lang/ai-manager-amuis-project/releases/download/v1.0.15/AI.Manager.Amuis.Project.Setup.1.0.15.exe",
+  "downloadUrl": "https://github.com/aikwalida7125-lang/ai-manager-amuis-project/releases/download/v1.0.16/AI.Manager.Amuis.Project.Setup.1.0.16.exe",
   "mandatory": true
 }
