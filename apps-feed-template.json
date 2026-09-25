@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T05:41:15.113Z",
+  "updatedAt": "2026-09-25T10:45:29.226Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
@@ -12,10 +12,12 @@
       "description": "Aplikasi ini dibuat Khusus Untuk menggenerate video secara automatis tetapi aplikasi ini dibuat sepaket dengan tools drama ai, jadi nanti kalau mau generate automatis sekaligus banyak dan langsung jadi 1 episode 1 episode tanpa cape cape generate manual pakai tools ini",
       "iconUrl": "",
       "accessType": "subscribers_only",
-      "allowedEmails": [],
+      "allowedEmails": [
+        "enc:ODw9Hx8dJwtnZ2VlCkhVSQ=="
+      ],
       "accessCode": "enc:fm18X0hbVVg=",
       "createdAt": "2026-09-20T02:39:19.548Z",
-      "updatedAt": "2026-09-24T04:37:53.779Z",
+      "updatedAt": "2026-09-25T10:45:09.058Z",
       "accessCodeHash": "ceb7ab7561b538dc4401fe7983d035aab5e39466c2b3dc736959e70bfc5f86c9"
     },
     {
@@ -28,10 +30,12 @@
       "description": "aplikasi ini dibuat untuk membantu kita membuat drama dengan mudah tanpa harus cape pindah pindah minta promt karakter minta promt alur minta naskah ini sudah all in ada semua, bisa rubah caracter sendiri mau pake wajah sendiri wajah artis bisa.",
       "iconUrl": "",
       "accessType": "subscribers_only",
-      "allowedEmails": [],
+      "allowedEmails": [
+        "enc:ODw9Hx8dJwtnZ2VlCkhVSQ=="
+      ],
       "accessCode": "enc:fWt9X09ZUFQz",
       "createdAt": "2026-09-20T01:15:23.101Z",
-      "updatedAt": "2026-09-24T04:38:02.201Z",
+      "updatedAt": "2026-09-25T10:45:17.591Z",
       "accessCodeHash": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225"
     },
     {
