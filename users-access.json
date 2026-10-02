@@ -28,12 +28,12 @@
     "email": "komputeramuis@gmail.com",
     "password": "CANGCUT",
     "grantedAppIds": [
-      "app_mu82czhnx2nh",
-      "app_muqk21zwg0d8"
+      "app_muqk21zwg0d8",
+      "app_mu82czhnx2nh"
     ],
-    "isActive": true,
+    "isActive": false,
     "notes": "Pelanggan VIP",
     "createdAt": "2026-10-02T06:59:16.379Z",
-    "updatedAt": "2026-10-02T06:59:16.379Z"
+    "updatedAt": "2026-10-02T07:39:04.673Z"
   }
 ]
