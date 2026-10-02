@@ -1,39 +1,26 @@
 [
   {
-    "id": "usr_muqm6mgu70pn",
-    "email": "anjas@gmail.com",
-    "password": "VIP-2FVQUD",
-    "grantedAppIds": [
-      "app_mu82czhnx2nh"
-    ],
-    "isActive": true,
-    "notes": "",
-    "createdAt": "2026-10-02T07:01:01.374Z",
-    "updatedAt": "2026-10-02T07:01:01.374Z"
-  },
-  {
     "id": "usr_master_amuis",
     "email": "amuis8920@gmail.com",
     "password": "HIDUPJOKOWI",
-    "grantedAppIds": [
-      "*"
-    ],
+    "grantedAppIds": ["*"],
     "isActive": true,
+    "duration": "lifetime",
+    "expiresAt": null,
     "notes": "Master Admin & Tester",
-    "createdAt": "2026-10-02T06:59:16.379Z",
-    "updatedAt": "2026-10-02T06:59:16.379Z"
+    "createdAt": "2026-10-02T06:00:00.000Z",
+    "updatedAt": "2026-10-02T06:00:00.000Z"
   },
   {
     "id": "usr_komputer_amuis",
     "email": "komputeramuis@gmail.com",
     "password": "CANGCUT",
-    "grantedAppIds": [
-      "app_muqk21zwg0d8",
-      "app_mu82czhnx2nh"
-    ],
-    "isActive": false,
+    "grantedAppIds": ["app_mu82czhnx2nh", "app_muqk21zwg0d8"],
+    "isActive": true,
+    "duration": "30",
+    "expiresAt": "2026-11-02T06:00:00.000Z",
     "notes": "Pelanggan VIP",
-    "createdAt": "2026-10-02T06:59:16.379Z",
-    "updatedAt": "2026-10-02T07:39:04.673Z"
+    "createdAt": "2026-10-02T06:00:00.000Z",
+    "updatedAt": "2026-10-02T06:00:00.000Z"
   }
 ]
