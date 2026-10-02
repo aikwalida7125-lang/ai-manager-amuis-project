@@ -1,5 +1,17 @@
 [
   {
+    "id": "usr_muqm6mgu70pn",
+    "email": "anjas@gmail.com",
+    "password": "VIP-2FVQUD",
+    "grantedAppIds": [
+      "app_mu82czhnx2nh"
+    ],
+    "isActive": true,
+    "notes": "",
+    "createdAt": "2026-10-02T07:01:01.374Z",
+    "updatedAt": "2026-10-02T07:01:01.374Z"
+  },
+  {
     "id": "usr_master_amuis",
     "email": "amuis8920@gmail.com",
     "password": "HIDUPJOKOWI",
@@ -8,8 +20,8 @@
     ],
     "isActive": true,
     "notes": "Master Admin & Tester",
-    "createdAt": "2026-10-02T06:47:39.744Z",
-    "updatedAt": "2026-10-02T06:47:39.747Z"
+    "createdAt": "2026-10-02T06:59:16.379Z",
+    "updatedAt": "2026-10-02T06:59:16.379Z"
   },
   {
     "id": "usr_komputer_amuis",
@@ -21,7 +33,7 @@
     ],
     "isActive": true,
     "notes": "Pelanggan VIP",
-    "createdAt": "2026-10-02T06:47:39.747Z",
-    "updatedAt": "2026-10-02T06:47:39.747Z"
+    "createdAt": "2026-10-02T06:59:16.379Z",
+    "updatedAt": "2026-10-02T06:59:16.379Z"
   }
 ]
