@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-02T06:01:49.728Z",
+  "updatedAt": "2026-10-02T08:47:17.938Z",
   "adminWhatsApp": "083837563334",
   "apps": [
+    {
+      "id": "app_muqpz0tgxwzp",
+      "name": "Generator Ai drama Automatis langsung jadi tanpa edit",
+      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9bD07ckRZFl8+aSQtLRAAc3HRnLOCjoHK1sDV+6yy8pmAkIqE",
+      "category": "Aplikasi Premium",
+      "badge": "VIP ACCESS",
+      "price": "Rp 100.000",
+      "description": "aplikasi ini sambungan dari aplikasi Drama ai, kalau ini untuk generate menjadikan video automatis disini jadi bener bener langsung ajdi video dan tanpa perlu edit lagi sudah menyatu.",
+      "iconUrl": "",
+      "accessType": "subscribers_only",
+      "allowedEmails": [],
+      "accessCode": "",
+      "createdAt": "2026-10-02T08:47:05.188Z"
+    },
     {
       "id": "app_muqk21zwg0d8",
       "name": "TOOLS DRMA AI BUAT DRAMA FILM SEMUA GENRE",
