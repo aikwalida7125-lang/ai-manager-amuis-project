@@ -1,12 +1,12 @@
 {
-  "latestVersion": "1.0.17",
-  "releaseDate": "2026-09-24",
-  "title": "Pembaruan Resmi AI Manager Amuis Project v1.0.17",
+  "latestVersion": "1.0.18",
+  "releaseDate": "2026-10-02",
+  "title": "Pembaruan Resmi AI Manager Amuis Project v1.0.18",
   "changelog": [
-    "Update Fitur menarik Terbaru",
-    "Buka Aplikasi Langsung di Workspace Aktif (Proteksi Tanpa Keluar Aplikasi)",
-    "Sinkronisasi Cloud Feeds Otomatis dari Internet (GitHub)"
+    "Pembersihan total katalog aplikasi di sisi pembeli: menghapus sampel demo lama secara otomatis",
+    "Sinkronisasi real-time katalog aplikasi dengan Cloud Admin (GitHub)",
+    "Fitur baru: Publikasikan katalog aplikasi langsung ke GitHub dengan 1-klik di Admin Center"
   ],
-  "downloadUrl": "https://github.com/aikwalida7125-lang/ai-manager-amuis-project/releases/download/v1.0.17/AI.Manager.Amuis.Project.Setup.1.0.17.exe",
+  "downloadUrl": "https://github.com/aikwalida7125-lang/ai-manager-amuis-project/releases/latest",
   "mandatory": true
 }
