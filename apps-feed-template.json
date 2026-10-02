@@ -1,47 +1,11 @@
 {
-  "updatedAt": "2026-09-25T12:48:17.703Z",
+  "updatedAt": "2026-10-02T01:57:13.796Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
-      "id": "app_mu97juv0yn7o",
-      "name": "Generator Drama Ai render video automatis",
-      "url": "https://flow.google.com/shared/tool/e3d76c83-dae1-47b5-a195-2db4be93136f",
-      "category": "Aplikasi Premium",
-      "badge": "VIP ACCESS",
-      "price": "Rp 100.000",
-      "description": "Aplikasi ini dibuat Khusus Untuk menggenerate video secara automatis tetapi aplikasi ini dibuat sepaket dengan tools drama ai, jadi nanti kalau mau generate automatis sekaligus banyak dan langsung jadi 1 episode 1 episode tanpa cape cape generate manual pakai tools ini",
-      "iconUrl": "",
-      "accessType": "subscribers_only",
-      "allowedEmails": [
-        "tester@gmail.com"
-      ],
-      "accessCode": "24242424",
-      "createdAt": "2026-09-20T02:39:19.548Z",
-      "updatedAt": "2026-09-25T10:45:09.058Z",
-      "accessCodeHash": "ceb7ab7561b538dc4401fe7983d035aab5e39466c2b3dc736959e70bfc5f86c9"
-    },
-    {
-      "id": "app_mu94jwpp4n97",
-      "name": "TOOLS DRAMA AI BISA BUAT DRAMA CINA SEMUA GENRE",
-      "url": "https://share.gemini.google/uO6YGvY83J9E",
-      "category": "Aplikasi Premium",
-      "badge": "VIP ACCESS",
-      "price": "Rp 200.000 Life Time",
-      "description": "aplikasi ini dibuat untuk membantu kita membuat drama dengan mudah tanpa harus cape pindah pindah minta promt karakter minta promt alur minta naskah ini sudah all in ada semua, bisa rubah caracter sendiri mau pake wajah sendiri wajah artis bisa.",
-      "iconUrl": "",
-      "accessType": "subscribers_only",
-      "allowedEmails": [
-        "tester@gmail.com"
-      ],
-      "accessCode": "123456789",
-      "createdAt": "2026-09-20T01:15:23.101Z",
-      "updatedAt": "2026-09-25T10:45:17.591Z",
-      "accessCodeHash": "15e2b0d3c33891ebb0f1ef609ec419420c20e320ce94c65fbc8c3312448eb225"
-    },
-    {
       "id": "app_mu82czhnx2nh",
       "name": "TOOLS AFILATE AUTOMATIS",
-      "url": "https://flow.google.com/shared/tool/f49a7e97-04d5-4831-a3f4-d066d52aca7d",
+      "url": "enc:pJ6zWLznKG1AoJvvKsYnWD2Jp7a6NUzjHjhuLUar+LhALwpYKmLMN+J2gr0wcCviHbUHKPkn+0NilUYQ3Jq7CN2o1qCHPYRKhe5Q1YMucOpJAW5hWdZmTRT+e1jtJt6bAVMQXw==",
       "category": "Aplikasi Premium",
       "badge": "VIP ACCESS",
       "price": "Rp 150.000",
@@ -49,13 +13,11 @@
       "iconUrl": "",
       "accessType": "subscribers_only",
       "allowedEmails": [
-        "amuis8920@gmail.com",
-        "komputeramuis@gmail.com"
+        "enc:+Mk3WqqGP6B59GQs6gAxzBxKVP86NZuXS7wUL0MmmkpRr55ltpzJXWXG/tYHGNI=",
+        "enc:ieozbMxc9T9ZmbZxKrAr0vK/50xCqaKUM95t/FZ1JMMZjr8RLK0fIR/UrY68pFpzQhDz"
       ],
-      "createdAt": "2026-09-19T07:26:14.699Z",
-      "updatedAt": "2026-09-19T22:46:41.925Z",
-      "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05",
-      "accessCode": "CANGCUT"
+      "accessCode": "enc:EqcB2flqdwKAqgcKLW1sZ2Suac3RtV6uuEjh2TnAG2SQPjk=",
+      "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05"
     }
   ]
 }
