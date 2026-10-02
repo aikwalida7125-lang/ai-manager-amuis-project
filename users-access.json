@@ -3,7 +3,9 @@
     "id": "usr_master_amuis",
     "email": "amuis8920@gmail.com",
     "password": "HIDUPJOKOWI",
-    "grantedAppIds": ["*"],
+    "grantedAppIds": [
+      "*"
+    ],
     "isActive": true,
     "duration": "lifetime",
     "expiresAt": null,
@@ -14,13 +16,17 @@
   {
     "id": "usr_komputer_amuis",
     "email": "komputeramuis@gmail.com",
-    "password": "CANGCUT",
-    "grantedAppIds": ["app_mu82czhnx2nh", "app_muqk21zwg0d8"],
+    "password": "hidupjokowi",
+    "grantedAppIds": [
+      "app_muqk21zwg0d8",
+      "app_mu82czhnx2nh"
+    ],
     "isActive": true,
     "duration": "30",
-    "expiresAt": "2026-11-02T06:00:00.000Z",
+    "expiresAt": "2026-11-01T08:20:56.606Z",
     "notes": "Pelanggan VIP",
     "createdAt": "2026-10-02T06:00:00.000Z",
-    "updatedAt": "2026-10-02T06:00:00.000Z"
+    "updatedAt": "2026-10-02T08:20:56.606Z",
+    "customDays": null
   }
 ]
