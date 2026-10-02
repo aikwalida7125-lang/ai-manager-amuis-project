@@ -21,12 +21,12 @@
       "app_muqk21zwg0d8",
       "app_mu82czhnx2nh"
     ],
-    "isActive": true,
+    "isActive": false,
     "duration": "30",
-    "expiresAt": "2026-11-01T08:20:56.606Z",
+    "expiresAt": "2026-11-01T08:23:46.212Z",
     "notes": "Pelanggan VIP",
     "createdAt": "2026-10-02T06:00:00.000Z",
-    "updatedAt": "2026-10-02T08:20:56.606Z",
+    "updatedAt": "2026-10-02T08:23:46.212Z",
     "customDays": null
   }
 ]
