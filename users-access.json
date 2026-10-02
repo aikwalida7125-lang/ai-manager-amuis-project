@@ -1,0 +1,27 @@
+[
+  {
+    "id": "usr_master_amuis",
+    "email": "amuis8920@gmail.com",
+    "password": "HIDUPJOKOWI",
+    "grantedAppIds": [
+      "*"
+    ],
+    "isActive": true,
+    "notes": "Master Admin & Tester",
+    "createdAt": "2026-10-02T06:47:39.744Z",
+    "updatedAt": "2026-10-02T06:47:39.747Z"
+  },
+  {
+    "id": "usr_komputer_amuis",
+    "email": "komputeramuis@gmail.com",
+    "password": "CANGCUT",
+    "grantedAppIds": [
+      "app_mu82czhnx2nh",
+      "app_muqk21zwg0d8"
+    ],
+    "isActive": true,
+    "notes": "Pelanggan VIP",
+    "createdAt": "2026-10-02T06:47:39.747Z",
+    "updatedAt": "2026-10-02T06:47:39.747Z"
+  }
+]
