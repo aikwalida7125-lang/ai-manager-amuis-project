@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T08:47:17.938Z",
+  "updatedAt": "2026-10-03T04:39:04.373Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
@@ -36,7 +36,7 @@
     {
       "id": "app_mu82czhnx2nh",
       "name": "TOOLS AFILATE AUTOMATIS",
-      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9PWtkIEEMSVg+PSR5LRAAeHqDnLCH2dbKgMHar/mzpsnVwoXZ",
+      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9bGtqI08KEg0+bykufhAAeXqCnOjVioDKh8jf+/mw8crVmtGJ",
       "category": "Aplikasi Premium",
       "badge": "VIP ACCESS",
       "price": "Rp 150.000",
@@ -48,7 +48,8 @@
         "enc:JzYjGw8bAh5ra3lgV2tdSVmyrPmjkPg="
       ],
       "accessCode": "enc:DxgALDk6Mw==",
-      "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05"
+      "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05",
+      "updatedAt": "2026-10-03T04:38:58.132Z"
     }
   ]
 }
