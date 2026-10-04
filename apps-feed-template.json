@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-03T04:39:04.373Z",
+  "updatedAt": "2026-10-04T02:30:04.018Z",
   "adminWhatsApp": "083837563334",
   "apps": [
+    {
+      "id": "app_mut7dpdzo5hw",
+      "name": "Affiliate Factory Pro 3 engine v2",
+      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9bj5peUQNQg4+P3QoLhAAIn/XnOnWidDK18KK+vy+95nSkYuI",
+      "category": "Aplikasi Premium",
+      "badge": "VIP ACCESS",
+      "price": "Rp 150.000",
+      "description": "Aplikasi ini dibuat untuk mempermudah membuat video afilate tiktok/shope. gaperlu ngepromt langsung bisa jadi video tinggal input produk dan karakter.langsung jadi",
+      "iconUrl": "",
+      "accessType": "subscribers_only",
+      "allowedEmails": [],
+      "accessCode": "",
+      "createdAt": "2026-10-04T02:29:56.039Z"
+    },
     {
       "id": "app_muqpz0tgxwzp",
       "name": "Generator Ai drama Automatis langsung jadi tanpa edit",
@@ -35,7 +49,7 @@
     },
     {
       "id": "app_mu82czhnx2nh",
-      "name": "TOOLS AFILATE AUTOMATIS",
+      "name": "TOOLS AFILATE AUTOMATIS V1",
       "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9bGtqI08KEg0+bykufhAAeXqCnOjVioDKh8jf+/mw8crVmtGJ",
       "category": "Aplikasi Premium",
       "badge": "VIP ACCESS",
@@ -49,7 +63,7 @@
       ],
       "accessCode": "enc:DxgALDk6Mw==",
       "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05",
-      "updatedAt": "2026-10-03T04:38:58.132Z"
+      "updatedAt": "2026-10-04T02:28:55.544Z"
     }
   ]
 }
