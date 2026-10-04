@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-04T02:30:04.018Z",
+  "updatedAt": "2026-10-04T04:15:03.018Z",
   "adminWhatsApp": "083837563334",
   "apps": [
+    {
+      "id": "app_mutb4m8en1za",
+      "name": "Affiliate Factory Pro 3 engine v3",
+      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9P2hpeEYNQAs+PiMpKBAAdXCFnOjRjtrKh8nUofjlpZuFlICM",
+      "category": "Aplikasi Premium",
+      "badge": "VIP ACCESS",
+      "price": "-",
+      "description": "Aplikasi khusus pelanggan aktif.",
+      "iconUrl": "",
+      "accessType": "subscribers_only",
+      "allowedEmails": [],
+      "accessCode": "",
+      "createdAt": "2026-10-04T04:14:50.510Z"
+    },
     {
       "id": "app_mut7dpdzo5hw",
       "name": "Affiliate Factory Pro 3 engine v2",
