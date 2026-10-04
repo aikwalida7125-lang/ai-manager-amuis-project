@@ -1,25 +1,11 @@
 {
-  "updatedAt": "2026-10-04T04:15:03.018Z",
+  "updatedAt": "2026-10-04T13:04:52.646Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
-      "id": "app_mutb4m8en1za",
-      "name": "Affiliate Factory Pro 3 engine v3",
-      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9P2hpeEYNQAs+PiMpKBAAdXCFnOjRjtrKh8nUofjlpZuFlICM",
-      "category": "Aplikasi Premium",
-      "badge": "VIP ACCESS",
-      "price": "-",
-      "description": "Aplikasi khusus pelanggan aktif.",
-      "iconUrl": "",
-      "accessType": "subscribers_only",
-      "allowedEmails": [],
-      "accessCode": "",
-      "createdAt": "2026-10-04T04:14:50.510Z"
-    },
-    {
       "id": "app_mut7dpdzo5hw",
-      "name": "Affiliate Factory Pro 3 engine v2",
-      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9bj5peUQNQg4+P3QoLhAAIn/XnOnWidDK18KK+vy+95nSkYuI",
+      "name": "Affiliate Factory Pro 3 engine ( Buat video afilte tiktok shope automatis)",
+      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9Omo4dE9YEV0+NCl4KRAAJnHQnOnR29fK1sGOrfi+9ZnVx9De",
       "category": "Aplikasi Premium",
       "badge": "VIP ACCESS",
       "price": "Rp 150.000",
@@ -28,7 +14,8 @@
       "accessType": "subscribers_only",
       "allowedEmails": [],
       "accessCode": "",
-      "createdAt": "2026-10-04T02:29:56.039Z"
+      "createdAt": "2026-10-04T02:29:56.039Z",
+      "updatedAt": "2026-10-04T13:04:32.926Z"
     },
     {
       "id": "app_muqpz0tgxwzp",
@@ -60,24 +47,6 @@
       "accessCode": "enc:BBAKPiolKCdFUUU=",
       "createdAt": "2026-10-02T06:01:28.988Z",
       "accessCodeHash": "d7e2b8f09a1ac72f6f64ef164b27028757b1a5aed7ea9ce3002b4bae5f6c5368"
-    },
-    {
-      "id": "app_mu82czhnx2nh",
-      "name": "TOOLS AFILATE AUTOMATIS V1",
-      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9bGtqI08KEg0+bykufhAAeXqCnOjVioDKh8jf+/mw8crVmtGJ",
-      "category": "Aplikasi Premium",
-      "badge": "VIP ACCESS",
-      "price": "Rp 150.000",
-      "description": "aplikasi ini untuk memudahkan kita membuat Video afilate tanpa perlu nge promt dan sudah langsung jadi video tanpa edit manual sudah auto marger. durasi bisa custom mau 10-20-2-30 detik",
-      "iconUrl": "",
-      "accessType": "subscribers_only",
-      "allowedEmails": [
-        "enc:LTQ7AglXXl46RmtkRUJWClu0rQ==",
-        "enc:JzYjGw8bAh5ra3lgV2tdSVmyrPmjkPg="
-      ],
-      "accessCode": "enc:DxgALDk6Mw==",
-      "accessCodeHash": "254e8994119e96eb3dd93b0d84dbc270ec30eab2e96a1e4e7138f3f2dab9bb05",
-      "updatedAt": "2026-10-04T02:28:55.544Z"
     }
   ]
 }
