@@ -1,7 +1,21 @@
 {
-  "updatedAt": "2026-10-04T13:04:52.646Z",
+  "updatedAt": "2026-10-06T05:34:57.546Z",
   "adminWhatsApp": "083837563334",
   "apps": [
+    {
+      "id": "app_muw8v8cgmn38",
+      "name": "Tools Podcast & dakwah quote automatis",
+      "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9Pmk5IBVfE1k+b3J/KRAAIXnRnLPQ3trKh5fd/aW+9Z+EmtTe",
+      "category": "Aplikasi Premium",
+      "badge": "VIP ACCESS",
+      "price": "Rp 150.000",
+      "description": "tools ini automatis untuk membuat quote quote menarik langsung jadi video gaperlu ngepromt",
+      "iconUrl": "",
+      "accessType": "subscribers_only",
+      "allowedEmails": [],
+      "accessCode": "",
+      "createdAt": "2026-10-06T05:34:51.904Z"
+    },
     {
       "id": "app_mut7dpdzo5hw",
       "name": "Affiliate Factory Pro 3 engine ( Buat video afilte tiktok shope automatis)",
