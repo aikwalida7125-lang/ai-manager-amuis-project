@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T05:34:57.546Z",
+  "updatedAt": "2026-10-07T01:26:08.620Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
@@ -8,13 +8,14 @@
       "url": "enc:JC06GwlVSENsamN+CkxVS1+3pfmjkPix9OL9mZf9vcfLyMh9Pmk5IBVfE1k+b3J/KRAAIXnRnLPQ3trKh5fd/aW+9Z+EmtTe",
       "category": "Aplikasi Premium",
       "badge": "VIP ACCESS",
-      "price": "Rp 150.000",
+      "price": "Rp 120.000",
       "description": "tools ini automatis untuk membuat quote quote menarik langsung jadi video gaperlu ngepromt",
       "iconUrl": "",
       "accessType": "subscribers_only",
       "allowedEmails": [],
       "accessCode": "",
-      "createdAt": "2026-10-06T05:34:51.904Z"
+      "createdAt": "2026-10-06T05:34:51.904Z",
+      "updatedAt": "2026-10-07T01:26:04.912Z"
     },
     {
       "id": "app_mut7dpdzo5hw",
