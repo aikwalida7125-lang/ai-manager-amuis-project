@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T01:26:08.620Z",
+  "updatedAt": "2026-10-08T23:38:12.885Z",
   "adminWhatsApp": "083837563334",
   "apps": [
     {
@@ -49,7 +49,7 @@
     {
       "id": "app_muqk21zwg0d8",
       "name": "TOOLS DRMA AI BUAT DRAMA FILM SEMUA GENRE",
-      "url": "enc:JC06GwlVSEN5bm17QQVdQVWyrr7umPrx4Ob5xIfWpOrj0f1qaBVkBA==",
+      "url": "enc:JC06GwlVSEN5bm17QQVdQVWyrr7umPrx4Ob5xJiq6tXwn+gLOCcrEw==",
       "category": "Aplikasi Premium",
       "badge": "VIP ACCESS",
       "price": "Rp 150.000",
@@ -61,7 +61,8 @@
       ],
       "accessCode": "enc:BBAKPiolKCdFUUU=",
       "createdAt": "2026-10-02T06:01:28.988Z",
-      "accessCodeHash": "d7e2b8f09a1ac72f6f64ef164b27028757b1a5aed7ea9ce3002b4bae5f6c5368"
+      "accessCodeHash": "d7e2b8f09a1ac72f6f64ef164b27028757b1a5aed7ea9ce3002b4bae5f6c5368",
+      "updatedAt": "2026-10-08T23:38:09.702Z"
     }
   ]
 }
