@@ -1,5 +1,21 @@
 [
   {
+    "id": "usr_mv0luqzsswjt",
+    "email": "delapansukrad@gmail.com",
+    "password": "hamdan69",
+    "grantedAppIds": [
+      "app_muqpz0tgxwzp",
+      "app_muqk21zwg0d8"
+    ],
+    "isActive": true,
+    "duration": "30",
+    "customDays": 30,
+    "expiresAt": "2026-11-08T06:49:29.128Z",
+    "notes": "",
+    "createdAt": "2026-10-09T06:49:29.128Z",
+    "updatedAt": "2026-10-09T06:49:29.128Z"
+  },
+  {
     "id": "usr_master_amuis",
     "email": "amuis8920@gmail.com",
     "password": "HIDUPJOKOWI",
