@@ -5,16 +5,17 @@
     "password": "hamdan69",
     "grantedAppIds": [
       "app_muw8v8cgmn38",
+      "app_mut7dpdzo5hw",
       "app_muqpz0tgxwzp",
       "app_muqk21zwg0d8"
     ],
     "isActive": true,
-    "duration": "30",
+    "duration": "365",
     "customDays": null,
-    "expiresAt": "2026-11-08T07:55:29.492Z",
+    "expiresAt": "2027-10-09T08:11:58.240Z",
     "notes": "",
     "createdAt": "2026-10-09T06:49:29.128Z",
-    "updatedAt": "2026-10-09T07:55:29.492Z"
+    "updatedAt": "2026-10-09T08:11:58.240Z"
   },
   {
     "id": "usr_master_amuis",
